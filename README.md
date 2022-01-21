@@ -1,8 +1,7 @@
 
 ## Hi there! I'm Younghu Park.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=park-ing&hide=prs,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-ing&layout=compact)
+
 
 
 ### Language
@@ -15,6 +14,21 @@
 <div>
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yh.park8742@gmail.com">
 
+ 
+<br/>
+
+## Github Stats
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=park-ing&hide=prs,contribs&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=park-ing&layout=compact&hide_border=true" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
   
 <!--
 **park-ing/park-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,3 +44,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
