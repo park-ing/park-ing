@@ -1,27 +1,21 @@
 
 ## Hi there! I'm Younghu Park.👋
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yh.park8742@gmail.com">
+Nice day☀️
+
+### About me
+- 🎖I'm currently interesting Deep Learning, Computer Vision.
+- ⚾️Baseball is one of my favorite sports.
+- 🏠My hometown is Gimhae, Gyeongsangnam-do in 🇰🇷South Korea.
 
 
 
-#### Education
 
-<br/>
-
-### Language
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-
-<br/>
   
-<br/>
   
-### Find me
-<div>
-<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yh.park8742@gmail.com">
-
-<br/>
- 
 <br/>
 
 ## Github Stats
