@@ -4,12 +4,13 @@
 Nice day☀️
 
 ### About me
-- 🎖I'm currently interesting Deep Learning, Computer Vision.
+- 🎖I'm currently interesting Deep Learning, Computer Vision, Information Processing.
 - ⚾️Baseball is one of my favorite sports.
 - 🏠My hometown is Gimhae, Gyeongsangnam-do in 🇰🇷South Korea.
 
 
 
+<br/>
 
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
