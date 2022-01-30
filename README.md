@@ -4,7 +4,7 @@
 Nice day☀️
 
 ### About me
-- 🎖I'm currently interesting Deep Learning, Computer Vision, Information Processing.
+- 🎖I'm currently interesting Deep Learning, Computer Vision.
 - ⚾️Baseball is one of my favorite sports.
 - 🏠My hometown is Gimhae, Gyeongsangnam-do in 🇰🇷South Korea.
 
